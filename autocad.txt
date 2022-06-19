@@ -2,6 +2,8 @@ The commands
 
 trim 
 shear
-loft
+array
+move
+loft 
 filler
 these are the commands of autocad.
