@@ -1,7 +1,8 @@
-The commands and unicorn
+The commands and unicorn and template
 
 trim 
 shear
+template sheet
 array
 move
 unicorn
