@@ -1,0 +1,7 @@
+The commands 
+
+trim 
+shear
+loft
+filler
+these are the commands of autocad.
